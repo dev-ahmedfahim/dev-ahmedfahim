@@ -15,8 +15,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dev-ahmedfahim&theme=onedark&column=-1" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-ahmedfahim&theme=github-dark-dimmed&custom_title=Ahmed%20Fahim%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 MERN Stack Developer | AI Enthusiast | Open to Opportunities
 
 I’m Ahmed Fahim, a passionate web developer from Dhaka, Bangladesh, with a strong focus on building dynamic, scalable, and user-friendly applications. Having recently completed an intensive 6-month MERN stack bootcamp, I’m eager to bring fresh ideas and problem-solving skills to real-world projects.
@@ -26,4 +24,8 @@ My interests span across full-stack development, APIs, and the growing world of 
 Outside of coding, you’ll probably find me enjoying movies or on an adventure travel, always looking for new experiences that spark creativity.
 
 Currently seeking opportunities to contribute to impactful projects and grow alongside a talented team.
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-ahmedfahim&theme=github-dark-dimmed&custom_title=Ahmed%20Fahim%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
