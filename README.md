@@ -1,3 +1,4 @@
+<h2>Hey 👋, I'm Fahim</h2>
 [![Actions Status](https://github.com/dev-ahmedfahim/dev-ahmedfahim/workflows/update-gh-activity/badge.svg)](https://github.com/dev-ahmedfahim/dev-ahmedfahim/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=dev-ahmedfahim.dev-ahmedfahim)
 
