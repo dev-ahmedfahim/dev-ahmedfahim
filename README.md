@@ -1,6 +1,5 @@
 <h2>Hey 👋, I'm Fahim</h2>
 
-
 <p align="center">
   <img src="https://socialify.git.ci/dev-ahmedfahim/dev-ahmedfahim/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="Ahmed Fahim" width="700" height="300" />
 </p>
@@ -41,5 +40,11 @@ Currently seeking opportunities to contribute to impactful projects and grow alo
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
 
 </p>
+
+### 📌 Current Activities
+- Learning AI Agents & backend development
+- Working on personal MERN stack projects
+- Exploring API integrations & automation tools
+
 
 
