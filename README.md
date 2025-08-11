@@ -17,16 +17,13 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-ahmedfahim&theme=github-dark-dimmed&custom_title=Ahmed%20Fahim%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-```yaml
-name: Ahmed Fahim
-located_in: Dhaka, Bangladesh
-job: MERN Stack Developer
-education: ["6-Month MERN Stack Bootcamp"]
-looking_for: ["Full-time / Internship roles in Web Development"]
-fields_of_interests: ["Full Stack", "Frontend", "Backend", "API", "AI", "AI Agents"]
-technical_background: ["MERN Stack", "Prompting", "Git", "AI"]
-currently_learning: ["AI Agents", "Backends"]
-will_learn: ["DevOps", "Docker", "n8n"]
-hobbies: ["Watching Movies", "Adventure Travels"]
- ```
+MERN Stack Developer | AI Enthusiast | Open to Opportunities
+
+I’m Ahmed Fahim, a passionate web developer from Dhaka, Bangladesh, with a strong focus on building dynamic, scalable, and user-friendly applications. Having recently completed an intensive 6-month MERN stack bootcamp, I’m eager to bring fresh ideas and problem-solving skills to real-world projects.
+
+My interests span across full-stack development, APIs, and the growing world of AI and AI Agents. I thrive on learning new technologies, exploring innovative solutions, and continuously improving my craft.
+
+Outside of coding, you’ll probably find me enjoying movies or on an adventure travel, always looking for new experiences that spark creativity.
+
+Currently seeking opportunities to contribute to impactful projects and grow alongside a talented team.
 
