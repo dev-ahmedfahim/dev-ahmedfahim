@@ -45,5 +45,8 @@ Currently seeking opportunities to contribute to impactful projects and grow alo
 - Working on personal MERN stack projects
 - Exploring API integrations & automation tools
 
+  <h2>📫Contacts</h2>
+  📧 majbah2015ahamedfahim@gmail.com
+
 
 
